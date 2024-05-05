@@ -31,7 +31,7 @@ int main() {
     // Arreglo para almacenar los datos 
     Estudiante estudiantes[n];
 
-    // Ingreso de datos y c·lculo de promedio y estado para cada estudiante
+    // Ingreso de datos y c√°lculo de promedio y estado para cada estudiante
     for (int i = 0; i < n; ++i) {
         cout << "Ingrese el ID del estudiante: ";
         cin >> estudiantes[i].id;
